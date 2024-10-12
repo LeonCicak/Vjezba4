@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vjezba4", "Vjezba4\Vjezba4.csproj", "{1D910056-934B-42F4-BE0F-743EA2793C86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D910056-934B-42F4-BE0F-743EA2793C86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D910056-934B-42F4-BE0F-743EA2793C86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D910056-934B-42F4-BE0F-743EA2793C86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D910056-934B-42F4-BE0F-743EA2793C86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C44AB68A-E505-4C62-AFA9-9EAC0ACB07EC}
+	EndGlobalSection
+EndGlobal
